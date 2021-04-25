@@ -2,7 +2,7 @@
 
 ## Description
 
-a script to check if your passwored has been leaked before
+a simple script to check if your passwored has been leaked before
 
 ## installation
 
