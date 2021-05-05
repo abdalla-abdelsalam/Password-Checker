@@ -1,4 +1,4 @@
-# Hacker News
+# Password-Checker
 
 ## Description
 
